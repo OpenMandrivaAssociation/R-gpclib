@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.5_1
-Release:          1
+Release:          2
 Summary:          General Polygon Clipping Library for R
 Group:            Sciences/Mathematics
 License:          file LICENSE
