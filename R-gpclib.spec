@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          1.5_1
-Release:          2
+Version:          1.5.5
+Release:          1
 Summary:          General Polygon Clipping Library for R
 Group:            Sciences/Mathematics
 License:          file LICENSE
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_1.5-1.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/gpclib_1.5-5.tar.gz
 Requires:         R-methods 
 Requires:         R-graphics 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods
@@ -51,4 +51,5 @@ rm -f %{buildroot}%{rlibdir}/R.css
 + Revision: 775374
 - Import R-gpclib
 - Import R-gpclib
+
 
