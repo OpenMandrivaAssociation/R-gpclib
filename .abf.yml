@@ -1,2 +1,4 @@
+removed_sources:
+  gpclib_1.5-1.tar.gz: 8af46dd541761a81058af6daf1e85a7225e56eba
 sources:
-  "gpclib_1.5-1.tar.gz": 8af46dd541761a81058af6daf1e85a7225e56eba
+  gpclib_1.5-5.tar.gz: 875f679bfedfa550f20d9b5baa9a7b8e281e7a0f
