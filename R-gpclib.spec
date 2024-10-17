@@ -7,7 +7,7 @@ Release:          2
 Summary:          General Polygon Clipping Library for R
 Group:            Sciences/Mathematics
 License:          file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/gpclib_1.5-5.tar.gz
 Requires:         R-methods 
 Requires:         R-graphics 
